@@ -1,0 +1,1361 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"votes",
+				"votesRef"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bordiu",
+				"border-radius"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bg",
+				"bgc	background-color: #${1:fff};"
+			],
+			[
+				"$route",
+				"$routeProvider.when	AngularJS"
+			],
+			[
+				"ng-sw",
+				"ng-switch-when	AngularJS"
+			],
+			[
+				"$rou",
+				"$routeProvider.when	AngularJS"
+			],
+			[
+				"pull",
+				"pullServer"
+			],
+			[
+				"fav",
+				"favSpotList"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/layout.jade",
+			"settings":
+			{
+				"buffer_size": 124,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/index.jade",
+			"settings":
+			{
+				"buffer_size": 65,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 255,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1175,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "CAACEdEose0cBALUquSxLZCe2pVM5uaCPUZAbwp7OGUheeAAJIQSG6mb6QCz2t3O5dGZASwBEIo1ZBMgl34w9AJfXdLRtqIZBz5oAPz9Rh1ZBiRmwKjevLB0IqFFKuZCQuhXGO8hTsoV73RMhHzjNt96ZAxrvQKZCTLzBFa7pg499hZCZCEs2YNUrm98gTSZA84DPMMETNYfysOlfGQZDZD\n\n1064334804\n\nAPI key VD6F45JHYC7Nu2tPsag\nAPI secret HsOBR8pWmrxz0RcMi8hprmBtNkvVJdRH775tAJTyc\nAccess token 2332959090-dx2HKjgwTp22QtwP3kwkw0NyvtraOgk7Z5QaxRz\nAccess token secret rRz0eCffIU7mW43XMjc45EOI8gwxiZNCC4c7JYGV6AAze",
+			"settings":
+			{
+				"buffer_size": 439,
+				"line_ending": "Unix",
+				"name": "CAACEdEose0cBALUquSxLZCe2pVM5uaCPUZAbwp7OGUheeAAJI"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 78.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"prefe",
+				"Preferences: Settings - User"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"to",
+				"View: Toggle Menu"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"toggl",
+				"View: Toggle Menu"
+			],
+			[
+				"togg",
+				"View: Toggle Menu"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"rus",
+				"Set Syntax: Rust"
+			],
+			[
+				"selc",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remv",
+				"Emmet: Remove Tag"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sel colo",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"color s",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"toggle me",
+				"View: Toggle Menu"
+			],
+			[
+				"settin",
+				"Preferences: Settings - Default"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"angula",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"enable li",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"enablu",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"enale pl",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"enable pl",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"plugin",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"enplug",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remoce",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 475.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/kj/projects/smurvive/package.json",
+		"/home/kj/projects/mean/app/views/layouts/default.jade",
+		"/home/kj/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/kj/projects/mean/app/views/includes/head.jade",
+		"/home/kj/libraries/facebook-android-sdk-3.6.0/samples/SessionLoginSample/src/com/facebook/samples/sessionlogin/LoginUsingActivityActivity.java",
+		"/home/kj/libraries/facebook-android-sdk-3.6.0/samples/Scrumptious/src/com/facebook/scrumptious/MainActivity.java",
+		"/home/kj/libraries/facebook-android-sdk-3.6.0/samples/HelloFacebookSample/src/com/facebook/samples/hellofacebook/HelloFacebookSampleActivity.java",
+		"/home/kj/libraries/facebook-android-sdk-3.6.0/samples/SessionLoginSample/src/com/facebook/samples/sessionlogin/SessionLoginSampleActivity.java",
+		"/home/kj/projects/mean/app/views/index.jade",
+		"/home/kj/projects/mean/public/views/header.html",
+		"/home/kj/projects/mean/app/controllers/users.js",
+		"/home/kj/projects/mean/server.js",
+		"/home/kj/.config/sublime-text-3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/home/kj/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/kj/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/kj/projects/mean/gruntfile.js",
+		"/home/kj/projects/mean/package.json",
+		"/home/kj/projects/smurvive/public/stylesheets/style.less",
+		"/home/kj/projects/smurvive/routes/user.js",
+		"/home/kj/projects/smurvive/routes/index.js",
+		"/home/kj/projects/smurvive/views/layout.jade",
+		"/home/kj/projects/smurvive/views/index.jade",
+		"/home/kj/projects/smurvive/app.js",
+		"/home/kj/Dropbox/Year 3/FYP/7. Testing/technical issues.txt",
+		"/home/kj/projects/cloud/chaphs/.gitignore",
+		"/home/kj/projects/cloud/chaphs/app/scripts/main.js",
+		"/home/kj/projects/cloud/chaphs/app/index.html",
+		"/home/kj/libraries/facebook-android-sdk-3.6.0/samples/HelloFacebookSample/build.gradle",
+		"/home/kj/projects/Spoty Clone/platforms/android/AndroidManifest.xml",
+		"/home/kj/projects/cloud/chaphs/app/styles/main.css",
+		"/home/kj/projects/cloud/chaphs/index.html",
+		"/home/kj/projects/cloud/chaphs/app/scripts/chart.js",
+		"/home/kj/projects/cloud/chaphs/package.json",
+		"/home/kj/projects/cloud/chaphs/Gruntfile.js",
+		"/home/kj/projects/cloud/chaphs/bower.json",
+		"/home/kj/projects/cloud/game/app/styles/main.css",
+		"/home/kj/projects/cloud/game/game.js",
+		"/home/kj/projects/Spoty/www/partials/faqView.html",
+		"/home/kj/Dropbox/Public/week2-todo.html",
+		"/home/kj/projects/Spoty/www/js/directives.js",
+		"/home/kj/projects/Spoty/platforms/android/src/com/phonegap/helloworld/HelloWorld.java",
+		"/home/kj/.ssh/openshift_rsa.pub",
+		"/home/kj/projects/is306/opencart/php/HelloWorld.php",
+		"/home/kj/projects/is306/opencart/php/tracking.php",
+		"/home/kj/projects/is306/opencart/php/catalog/view/theme/default/template/account/login.tpl",
+		"/home/kj/projects/is306/opencart/php/catalog/view/theme/default/template/account/register.tpl",
+		"/home/kj/Dropbox/Year 3/FYP/7. Testing/Collections/Evance.json.postman_collection",
+		"/home/kj/Dropbox/Year 3/FYP/7. Testing/Collections/Connection.json.postman_collection",
+		"/home/kj/projects/Spoty/www/partials/foo.rs",
+		"/home/kj/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/kj/projects/Spoty/www/index.html",
+		"/home/kj/projects/Spoty/www/partials/currentView.html",
+		"/home/kj/projects/Spoty/www/partials/searchResultView.html",
+		"/home/kj/projects/Spoty/www/partials/favView.html",
+		"/home/kj/projects/Spoty/www/partials/searchView.html",
+		"/home/kj/projects/Spoty/www/js/app.js",
+		"/home/kj/projects/Spoty/platforms/android/src/com/phonegap/spoty/HelloWorld.java",
+		"/home/kj/projects/Spoty/www/js/controllers.js",
+		"/home/kj/Dropbox/IDP/Testing/favView.html",
+		"/home/kj/projects/Spoty/www/config.xml",
+		"/home/kj/projects/Spoty/platforms/android/local.properties",
+		"/home/kj/projects/Spoty/platforms/android/build.xml",
+		"/home/kj/Dropbox/IDP/Testing/search.html",
+		"/home/kj/Dropbox/IDP/Testing/search.js",
+		"/home/kj/projects/ItchyMoose/www/index.html",
+		"/home/kj/projects/ItchyMoose/www/partials/events.html",
+		"/home/kj/projects/ItchyMoose/www/partials/register.html",
+		"/home/kj/projects/ItchyMoose/www/js/index.js",
+		"/home/kj/projects/ItchyMoose/www/css/example.css",
+		"/home/kj/projects/ItchyMoose/www/js/example.js",
+		"/home/kj/projects/ItchyMoose/www/lib/handlebars.js",
+		"/home/kj/projects/ItchyMoose/www/lib/modernizr.custom.91972.js",
+		"/home/kj/projects/ItchyMoose/www/lib/backbone.min.js",
+		"/home/kj/projects/ItchyMoose/www/lib/lodash.min.js",
+		"/home/kj/projects/ItchyMoose/www/lib/zepto.flickable.min.js",
+		"/home/kj/projects/ItchyMoose/www/lib/zepto.min.js",
+		"/home/kj/projects/ItchyMoose/www/css",
+		"/home/kj/projects/ItchyMoose/www/css/",
+		"/home/kj/projects/ItchyMoose/www/lib/mobile-nav.js",
+		"/home/kj/projects/ItchyMoose/www/css/index.html",
+		"/home/kj/projects/ItchyMoose/www/css/grid-view.css",
+		"/home/kj/projects/ItchyMoose/www/js/app.js",
+		"/home/kj/projects/ItchyMoose/www/phonegap.js",
+		"/home/kj/projects/ItchyMoose/www/cordova_plugins.js",
+		"/home/kj/Downloads/lib/nativeDroid_v0.2.2/development/index.html",
+		"/home/kj/Downloads/lib/jquery-mobile-flat-ui-theme-master/demo/index.html",
+		"/home/kj/.config/sublime-text-3/Packages/User/HTML/script-tag.sublime-snippet",
+		"/home/kj/projects/ItchyMoose/www/css/index.css",
+		"/home/kj/projects/ItchyMoose/www/js/services.js",
+		"/home/kj/projects/ItchyMoose/www/js/controllers.js",
+		"/home/kj/projects/ItchyMoose/www/css/jquerymobile.css",
+		"/home/kj/projects/ItchyMoose/platforms/android/assets/www/index.html",
+		"/home/kj/projects/ItchyMoose/www/lib/ratchet.js",
+		"/home/kj/projects/ItchyMoose/www/lib/jquery.mobile-1.3.2.min.js",
+		"/home/kj/projects/ItchyMoose/www/lib/jquery.mobile-1.3.2.js",
+		"/home/kj/Downloads/lib/chocolatechip-ui-master/examples-ios/index.html",
+		"/home/kj/projects/ItchyMoose/www/partials/settings.html",
+		"/home/kj/projects/ItchyMoose/www/lib/angular-ui-transition.js",
+		"/home/kj/projects/ItchyMoose/www/lib/angular-ui-collapse.js",
+		"/home/kj/projects/ItchyMoose/www/lib/angular-ui-accordion.js",
+		"/home/kj/Pictures/sdk-cube.png",
+		"/home/kj/projects/ItchyMoose/platforms/android/res/xml/config.xml",
+		"/home/kj/projects/ItchyMoose/itchymoose.sublime-project",
+		"/home/kj/projects/ItchyMoose/www/cordova.js",
+		"/home/kj/projects/ItchyMoose/www/lib/angular.min.js",
+		"/home/kj/projects/ItchyMoose/www/lib/angular.js",
+		"/home/kj/projects/html.sublime-snippet",
+		"/home/kj/projects/ItchyMoose/www/phonegap-app-hello-world-3.1.0/www/config.xml",
+		"/home/kj/projects/ItchyMoose/bower.json",
+		"/home/kj/projects/ItchyMoose/www/css/chui.ios-3.0.4.css",
+		"/home/kj/projects/ItchyMoose/www/spec/index.js",
+		"/home/kj/projects/ItchyMoose/platforms/android/src/com/excelente/enoq/EnoQ.java",
+		"/home/kj/projects/ItchyMoose/www/js/directives.js",
+		"/home/kj/projects/ItchyMoose/www/js/filters.js",
+		"/home/kj/projects/ItchyMoose/www/css/indexNewest.css",
+		"/home/kj/projects/ItchyMoose/www/css/topcoat-mobile-light.min.css",
+		"/home/kj/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/kj/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/kj/.config/sublime-text-3/Packages/User/LiveReload.sublime-settings",
+		"/home/kj/.config/sublime-text-3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/home/kj/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/home/kj/.config/sublime-text-3/Packages/User/SublimeServer.sublime-settings",
+		"/home/kj/.config/sublime-text-3/Settings/SideBarEnhancements.json",
+		"/home/kj/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/kj/projects/Spoty/test",
+		"/home/kj/.config/sublime-text-3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/home/kj/.config/sublime-text-3/Packages/User/Emmet.sublime-settings",
+		"/home/kj/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Terminus",
+			"swit",
+			"menu",
+			"minim",
+			"green",
+			"radio",
+			"select",
+			"SIS",
+			"Form",
+			"label",
+			"instantSearch",
+			"app",
+			"this.$",
+			"header",
+			"alt",
+			"app",
+			"ngMobile",
+			"'",
+			"fontaw",
+			"content",
+			"collap",
+			"accordion",
+			"setTitle",
+			"newTitle",
+			"type",
+			"nav",
+			"spoty",
+			"spot",
+			"spoty",
+			"type",
+			"Spoty",
+			"spoty",
+			"f12",
+			"test",
+			"super",
+			"supe",
+			"super",
+			"Source",
+			"Inconsolata",
+			"true",
+			"next",
+			"has_next_field",
+			"next",
+			"navigator",
+			"client",
+			"RETURNING",
+			"myApp",
+			"spoty",
+			"myApp",
+			"id",
+			"KitchenSink",
+			"tab"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"spoty",
+			"myApp",
+			"spoty",
+			"Spoty"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/layout.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/index.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 65,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								100
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								525,
+								525
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"word_separators": "./\\\\()\\\"\\'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 298.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								438,
+								438
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "CAACEdEose0cBALUquSxLZCe2pVM5uaCPUZAbwp7OGUheeAAJI",
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "smurvive.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"eve",
+				"ItchyMoose/www/partials/events.html"
+			],
+			[
+				"even",
+				"ItchyMoose/www/partials/events.html"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				".java",
+				"platforms/android/src/com/excelente/enoq/EnoQ.java"
+			],
+			[
+				"dire",
+				"www/js/directives.js"
+			],
+			[
+				"indes",
+				"www/spec/index.js"
+			],
+			[
+				"fil",
+				"www/js/filters.js"
+			],
+			[
+				"ser",
+				"www/js/services.js"
+			],
+			[
+				"inde",
+				"www/index.html"
+			],
+			[
+				"app",
+				"www/js/app.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/projects/ItchyMoose/itchymoose.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
