@@ -68,6 +68,8 @@ var walk = function(path) {
     });
 };
 walk(routes_path);
+var index = require('./app/controllers/index');
+app.get('/', index.render);
 
 // start the server
 http.createServer(app).listen(app.get('port'), function(){
