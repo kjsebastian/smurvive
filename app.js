@@ -68,8 +68,30 @@ var walk = function(path) {
     });
 };
 walk(routes_path);
-var index = require('./app/controllers/index');
-app.get('/', index.render);
+
+var ctrl = require('./app/controllers');
+var models = require('./app/models/comment');
+var Comment = mongoose.model('Comment');
+
+app.get('/', ctrl.index);
+app.get('/comment', function(req, res) {
+    Comment.find(function(err, comments) {
+        if (err) {
+            res.send("cannot get");
+        }
+        res.json(comments);
+    });
+});
+app.post('/comment/create', function(req, res, next) {
+    var comment = new Comment(req.body);
+
+    comment.save(function(err) {
+        if (err) {
+            res.send("bad comment");
+        }
+        next();
+    });
+});
 
 // start the server
 http.createServer(app).listen(app.get('port'), function(){

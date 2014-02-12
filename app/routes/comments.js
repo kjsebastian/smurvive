@@ -12,3 +12,9 @@ exports.complaints = function(req, res) {
         res.json(docs);
     });
 }
+
+exports.comments = function(req, res) {
+    Comments.find({}, function (err, docs) {
+        res.json(docs);
+    });
+}
